@@ -1,0 +1,19 @@
+body{text-align: center;background-color:rgb(240, 182, 236);}
+
+.d1{
+    height: 100px;
+    width: 100px;
+    border-radius:20% ;
+    border: 5px black solid;
+    margin: 2rem;
+}
+.d{
+    display: flex;
+    justify-content: center;
+}
+.red{background-color: red;}
+.green{background-color:green;}
+.blue{background-color: blue;}
+.yellow{background-color:yellow;}
+
+.sprk{background-color: white;}
